@@ -1,0 +1,6 @@
+transformers
+streamlit
+torch
+setuptools
+pandas
+openpyxl
