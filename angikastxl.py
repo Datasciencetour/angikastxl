@@ -15,7 +15,7 @@ model = AutoModelForCausalLM.from_pretrained("satyajeet234/angika-llm-1b", cache
 excel_file = "generated_responses.xlsx"
 
 # Streamlit app
-st.title("Angika Language Model Chatbot")
+st.title("अंgika GPT Language Model Chatbot")
 st.write("Enter your text in Angika and see the generated output.")
 
 # Text input from the user
